@@ -1,0 +1,7 @@
+[
+  {"input": "Wrong product received", "expected": "Apology and fix"},
+  {"input": "Late delivery", "expected": "Apology and explanation"},
+  {"input": "Angry refund request", "expected": "Calm response"},
+  {"input": "", "expected": "Ask for clarification"},
+  {"input": "Unclear issue", "expected": "Request more details"}
+]
