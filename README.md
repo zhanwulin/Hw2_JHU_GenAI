@@ -30,8 +30,8 @@ Customer support writing is repetitive and time-consuming. A GenAI workflow can 
 1. Install the package:
    `pip install -U google-genai`
 
-2. Set your API key in PowerShell:
-   `$env:GEMINI_API_KEY="your_api_key_here"`
+2. Set my API key in PowerShell:
+   `$env:GEMINI_API_KEY=""`
 
 3. Run the script:
    `python app.py`
