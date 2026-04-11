@@ -2,6 +2,8 @@
 
 ## Video Walkthrough
 https://www.youtube.com/watch?v=joDKUtjl7wI
+and 
+https://www.youtube.com/watch?v=NjiA6TxS9dU
 
 This project builds a simple GenAI workflow for customer support automation for JHU HW2.
 
